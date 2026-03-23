@@ -1,0 +1,37 @@
+scipy
+numpy
+pandas
+streamlit
+matplotlib
+streamlit-drawable-canvas
+htbuilder
+tensorflow
+Werkzeug
+Flask
+numpy
+Keras
+gevent
+pillow
+h5py
+#opencv-python
+#python3-opencv
+opencv-python-headless
+typing-extensions
+wheel
+
+# conda install pytorch cpuonly => works
+# conda install pytorch 
+# pytorch==1.6.0+cpu
+# torchvision==0.7.0+cpu
+
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.0.0+cpu
+torchvision==0.15.1+cpu
+# torchaudio-0.7.0+cpu
+
+# --find-links https://download.pytorch.org/whl/torch_stable.html
+#torch-1.7.0+cpu
+#torchaudio-0.7.2
+#torchvision-0.8.2
+#typing-extensions-3.7.4.3
+
